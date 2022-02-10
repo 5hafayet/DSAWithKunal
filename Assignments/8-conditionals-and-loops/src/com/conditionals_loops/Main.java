@@ -1,4 +1,4 @@
-package com.switchst;
+package com.conditionals_loops;
 
 public class Main {
 
