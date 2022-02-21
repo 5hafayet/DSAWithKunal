@@ -9,7 +9,7 @@ public class chagnevalueinternally {
         changeName(name);
         changeArr(nums);
 
-        System.out.println(name); //do not changes because it creates a new object with value ahmad
+        System.out.println(name); //do not changes because it creates a new object with value ahmad. not modifying it.
         System.out.println(Arrays.toString(nums)); // changes because it modifies previous objects 0th index
     }
 
